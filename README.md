@@ -1,5 +1,5 @@
 # Translator Web App
-  ![Texto Alternativo](caminho/da/sua/imagem.png)
+  ![Translator web app ia](./templates/img/app-ia.png)
 
 ## Overview
 This web app allows users to translate text into different languages using an AI-powered translation service. It is built using Flask for creating a web app with AI capabilities.
