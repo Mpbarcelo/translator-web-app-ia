@@ -20,5 +20,5 @@ This web app allows users to translate text into different languages using an AI
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mpbarcelo/web-app-ia
-   cd web-app-ia
+   git clone https://github.com/Mpbarcelo/translator-web-app-ia/settings
+   cd translator-web-app-ia
