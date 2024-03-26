@@ -22,3 +22,6 @@ This web app allows users to translate text into different languages using an AI
    ```bash
    git clone https://github.com/Mpbarcelo/translator-web-app-ia/settings
    cd translator-web-app-ia
+
+
+💜 Obrigada por visitar meu repositório!
